@@ -6,7 +6,7 @@
 //  Copyright (c) 2015 Andrew Bancroft. All rights reserved.
 //
 
-// blah blah
+// yaaaay!
 
 import UIKit
 import CoreData
